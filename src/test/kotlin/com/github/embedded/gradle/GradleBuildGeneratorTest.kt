@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Assertions.assertTrue
 import org.junit.jupiter.api.Test
 
-class BuildLogicFunctionalTest {
+class GradleBuildGeneratorTest {
 
     @Test
     fun `test gradle build dsl`() {
